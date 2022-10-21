@@ -1,0 +1,142 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+body{
+    margin: 0;
+}
+
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+
+.login{
+    width: 50%;
+    float: left;
+}
+
+.logo-txt{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 200px;
+}
+
+.login-label{
+    color: white;
+    font-size: 11px;
+}
+
+.login-controls{
+    padding-top: 6px;
+    padding-left: 57px;
+}
+
+.forgot{
+    font-size: 11px;
+
+color: #9cb4d8;
+
+text-decoration: none;
+}
+
+.login-button{
+    background: #4267b2;
+    color: white;
+    height: 27px;
+    border-color: #7171bc;
+    margin-left: 6px;
+    cursor: pointer;
+}
+
+.login-button:hover{
+    background: #2d55a5;
+}
+
+.left-sec{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+
+.right-sec{
+    width: 40%;
+    float: left;
+}
+
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 580px;
+}
+
+.fb-qot{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    color: #1c1e21;
+}
+
+.image{
+    width: 581px;
+}
+
+.firstname{
+    height: 25px;
+}
+
+.lastname{
+    height: 25px;
+    margin-left: 5px;
+}
+
+.mail{
+    height: 25px;
+    margin-top: 10px;
+    width: 483px;
+}
+
+.password{
+    height: 25px;
+    margin-top: 10px;
+    width: 483px;
+}
+
+.day{
+    margin-top: 10px;
+    height: 35px;
+}
+
+.month{
+    margin-top: 10px;
+    height: 35px;
+}
+
+.rad{
+    font-family: Helvetica, Arial, sans-serif;
+    margin-top: 10px;
+}
+
+.policy{
+    margin-top: 10px;
+    color: grey;
+}
+
+.submit{
+    width: 180px;
+    height: 40px;
+    background: #45af35;
+    color: white;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif !important;
+    font-weight: bold;
+    font-size: 18px;
+}
